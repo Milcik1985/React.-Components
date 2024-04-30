@@ -1,0 +1,7 @@
+.container {
+  background-color: #ffcdea;
+  padding: 2rem;
+  min-height: 25rem;
+  display: flex;
+  flex-wrap: wrap;
+}

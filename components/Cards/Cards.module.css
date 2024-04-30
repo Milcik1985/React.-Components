@@ -1,0 +1,22 @@
+.main {
+  height: 10rem;
+  width: 17rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  justify-content: center;
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.main img {
+  object-fit: cover;
+  width: 15rem;
+  height: 6rem;
+}
+
+.main h4 {
+  text-align: center;
+}
